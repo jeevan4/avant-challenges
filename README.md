@@ -1,5 +1,5 @@
 # avant-challenges
-challenge implemented for Avant's Data warehouse position
+Challenge implemented for Avant's Data warehouse position
 
 This repository contains 2 folders
 
