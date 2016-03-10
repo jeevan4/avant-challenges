@@ -1,0 +1,226 @@
+C:\Python27\python.exe C:/Users/Jeevan/Desktop/avant/line_of_credit_test.py
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 1
+Enter in this format - apr,amount: 35,1000
+Apr 0.35
+CreditLimit 1000.0
+Balance 1000.0
+Loaned Amount 0
+
+ Customer Created with the given credit and apr 
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 2
+Record the Withdrawl - date (mm-dd-yyyy),amount: 03-05-2016,500
+Apr 0.35
+CreditLimit 1000.0
+Balance 500.0
+Loaned Amount 500.0
+
+ Recorded Withdrawl
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 2
+Record the Withdrawl - date (mm-dd-yyyy),amount: 03-01-2016,100
+Enter a valid date that is greater than previous transaction but with in this bill month
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 2
+Record the Withdrawl - date (mm-dd-yyyy),amount: 04-01-2016,100
+Enter a valid date that is greater than previous transaction but with in this bill month
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 3
+Record the Payment - date (mm-dd-yyyy),amount: 03-01-2016,300
+Enter a valid date that is greater than previous transaction but with in this bill month
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 5
+Transaction Date Transaction Amount ("-" indicates withdrawl)
+2016-03-05 00:00:00 -500.0
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 3
+Record the Payment - date (mm-dd-yyyy),amount: 03-06-2016,200
+Apr 0.35
+CreditLimit 1000.0
+Balance 700.0
+Loaned Amount 300.0
+
+ Recorded Payment
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 5
+Transaction Date Transaction Amount ("-" indicates withdrawl)
+2016-03-05 00:00:00 -500.0
+2016-03-06 00:00:00 200.0
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 2
+Record the Withdrawl - date (mm-dd-yyyy),amount: 03-02-2016,400
+Enter a valid date that is greater than previous transaction but with in this bill month
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 5
+Transaction Date Transaction Amount ("-" indicates withdrawl)
+2016-03-05 00:00:00 -500.0
+2016-03-06 00:00:00 200.0
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 2
+Record the Withdrawl - date (mm-dd-yyyy),amount: 03-10-2016,200
+Apr 0.35
+CreditLimit 1000.0
+Balance 500.0
+Loaned Amount 500.0
+
+ Recorded Withdrawl
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 5
+Transaction Date Transaction Amount ("-" indicates withdrawl)
+2016-03-05 00:00:00 -500.0
+2016-03-06 00:00:00 200.0
+2016-03-10 00:00:00 -200.0
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 3
+Record the Payment - date (mm-dd-yyyy),amount: 03-09-2016,100
+Enter a valid date that is greater than previous transaction but with in this bill month
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 5
+Transaction Date Transaction Amount ("-" indicates withdrawl)
+2016-03-05 00:00:00 -500.0
+2016-03-06 00:00:00 200.0
+2016-03-10 00:00:00 -200.0
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 3
+Record the Payment - date (mm-dd-yyyy),amount: 04-01-2016,100
+Enter a valid date that is greater than previous transaction but with in this bill month
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 5
+Transaction Date Transaction Amount ("-" indicates withdrawl)
+2016-03-05 00:00:00 -500.0
+2016-03-06 00:00:00 200.0
+2016-03-10 00:00:00 -200.0
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 4
+Assuming that the 30 day interest period has started, Interest : 11.698630137 Total Payoff amount: 511.698630137
+
+        1.Create a Customer with Apr and CreditLimit (apr,amount)
+        2.Record a Withdrawl(date (mm-dd-yyyy),amount)
+        3.Record a Payment (date (mm-dd-yyyy),amount)
+        4.Find your Interest (view available balance etc.)
+        5.Show all transactions
+        6.Exit/Quit the system
+        
+What would you like to do? 6
+
+ Goodbye
